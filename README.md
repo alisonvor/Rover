@@ -21,7 +21,7 @@ LMLMLRRMMM
 2 3 N  
 LRRMLMLMM
 
-delete any spaces after the last letter on a line or it will thwrow an error
+delete any spaces after the last letter on a line or it will throw an error
 The file is under src/input directory
 
 ## Installation
