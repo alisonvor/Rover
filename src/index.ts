@@ -45,6 +45,5 @@ if (
 
 //Place the rovers on the Plateau
 const rover = new Rover();
-console.log(rovers);
 const response = rover.execute(plateau, rovers);
 console.log(response);
