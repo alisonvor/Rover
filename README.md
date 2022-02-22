@@ -10,7 +10,7 @@ The first step is to provide the application with the necessary information to r
 5 5  
 1 2 N  
 LMLMLMLMM  
-and it can have more Rovers  
+### and it can have more Rovers  
 7 7  
 1 2 N  
 LMLMLMLMM  
